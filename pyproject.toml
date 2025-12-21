@@ -1,6 +1,6 @@
 [project]
 name = "aither"
-version = "0.1.0"
+version = "0.1.1"
 description = "Python SDK for the Aither platform - contextual intelligence and model observability"
 readme = "README.md"
 license = "MIT"
